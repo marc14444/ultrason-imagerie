@@ -1,0 +1,6 @@
+venv/
+__pychache__/
+.env
+scripts/
+__pychache__/
+.env
